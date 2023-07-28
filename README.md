@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/PzY2K7SaqIEyA/giphy.gif" width="30px"> IA & Art Visuel</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/PzY2K7SaqIEyA/giphy.gif" width="60px"> IA & Art Visuel</h1>
 
 Dans le cadre de ma veille technologique sur l'intelligence artificielle et l'art, j'ai rassemblé diverses ressources qui peuvent être utiles pour comprendre les dernières avancées dans ce domaine passionnant. Pour en savoir plus sur ma méthodologie et mes résultats, je vous invite à cliquer sur les liens ci-dessous.
 
